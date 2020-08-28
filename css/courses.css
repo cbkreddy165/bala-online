@@ -1,0 +1,126 @@
+.mymenu{
+	min-height:81px;
+}
+.sign-in {
+    margin-left: 15px;
+    border-left: 1px solid #dedfe0;
+}
+.top-course-items .equal-height {
+    margin-bottom: 30px;
+}
+.top-course-items .item {
+    box-shadow: 0 0 10px #cccccc;
+    background: #ffffff;
+}
+.top-course-items .item .thumb {
+    position: relative;
+    z-index: 1;
+}
+.top-course-items .item .thumb img{
+    width: 358px;
+    height: 200px;
+}
+.top-course-items .item .info {
+    padding: 20px;
+}
+.top-course-items .item .info h4 {
+    text-transform: capitalize;
+    font-weight: 600;
+}
+.top-course-items .footer-meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid #e7e7e7;
+    margin-top: 20px;
+    padding-top: 25px;
+}
+
+.btn-theme {
+    background-color: #f6822b;
+    color: #fff !important;
+    border: 2px solid #f6822b;
+}
+.top-course-items .item .info h4 {
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+.login-area form {
+    padding: 50px;
+    border: 1px solid #ffb606;
+    overflow: hidden;
+    background: #e7e7e7;
+    margin: 0 30px;
+}
+#stuRegistation{
+	    padding: 30px 30px;
+    border: 1px solid #ddd;
+    overflow: hidden;
+    background: #fff;
+    margin: 0 30px;
+    border-radius: 5px;
+	box-shadow: 0 0 10px #cccccc;
+}
+#stuRegistation input{
+	height:40px;
+}
+.sturegiBtn{
+	padding-top:25px;
+}
+.proced-btn{
+	background: #f6822b none repeat scroll 0 0;
+    border: medium none;
+    display: inline-block;
+   
+    font-weight: 600;
+    margin-top: 10px;
+    padding: 8px 50px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.link-bottom {
+    display: block;
+    float: left;
+    margin-bottom: 0;
+    width: 100%;
+    border-top: 1px solid #f6822b;
+    margin-top: 30px;
+    padding-top: 25px;
+}
+
+#stuLogin{
+	    padding: 30px 30px;
+    border: 1px solid #ddd;
+    overflow: hidden;
+    background: #fff;
+    margin: 0 30px;
+    border-radius: 5px;
+	box-shadow: 0 0 10px #cccccc;
+}
+#stuLogin input{
+	height:40px;
+}
+
+#getintouch{
+	    padding: 30px 30px;
+    border: 1px solid #ddd;
+    overflow: hidden;
+    background: #fff;
+    margin: 0 30px;
+    border-radius: 5px;
+	box-shadow: 0 0 10px #cccccc;
+}
+#getintouchmap{
+	    padding: 30px 30px;
+    border: 1px solid #ddd;
+    overflow: hidden;
+    background: #fff;
+    margin: 0 30px;
+    border-radius: 5px;
+	box-shadow: 0 0 10px #cccccc;
+}
+#getintouch input{
+	height:40px;
+}
